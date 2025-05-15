@@ -25,8 +25,8 @@ Bu proje, ikinci el araçların teknik ve görsel özelliklerini kullanarak **ta
 ## 🚀 Uygulamayı Çalıştırmak
 
 1. Gerekli kütüphaneleri yükleyin:
-```bash
+
 2. Terminalden çalıştırın.
-python veri_temizleme_model.py
+python model_egit.py
 ardından
 streamlit run app.py
