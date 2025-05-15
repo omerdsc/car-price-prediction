@@ -30,3 +30,7 @@ Bu proje, ikinci el araçların teknik ve görsel özelliklerini kullanarak **ta
 python model_egit.py
 ardından
 streamlit run app.py
+![Ekran görüntüsü 2025-05-15 161357](https://github.com/user-attachments/assets/a6e5ccf4-4a7e-495d-8f2e-0563f64ff0b1)
+![Ekran görüntüsü 2025-05-15 161432](https://github.com/user-attachments/assets/6bcc3450-d2f2-4dc7-88b3-fd8e01014b7c)
+
+
